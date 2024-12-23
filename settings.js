@@ -16,18 +16,18 @@ global.location = "Kenya" //ur location
 
 //new
 global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
-global.ownername = '© TENNOMODZ' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
-global.wagc = "https://chat.whatsapp.com/Hs0AwkOaFzbGi5sjicdeTR" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
+global.ownernumber = process.env.OWNER_NUMBER ||'254769365617' //ur owner number
+global.ownername = '©  𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
+global.wagc = "https://chat.whatsapp.com/J5mZshoJ3fWI8yiPSo0M93" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.themeemoji = '🪀'
-global.wm = "GIDDY TENNOR"
-global.botscript = 'https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D' //'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //script link
+global.wm = " 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️"
+global.botscript = 'https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41' //'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //script link
 global.packname = process.env.PACK_NAME ||"BELLAH XMD" //enter your stickers author name here
-global.author = "Giddy-Tennor"
-global.creator = "254703726139@s.whatsapp.net"
+global.author = " 𝐉𝚰𝚴𝐖𝚰𝚰𝐋 𝚯𝚴𝐆𝚰𝚴𝐉𝚯 🕷️🕸️"
+global.creator = "254769365617@s.whatsapp.net"
 global.xprefix = process.env.PREFIX ||'.'
-global.premium = ["254703726139"] // Premium User
+global.premium = ["254769365617"] // Premium User
 global.hituet = 0
 
 //bot sett
