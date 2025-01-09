@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +BELLAH-XMD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+GIDDY+TENNOR;RELEASED+12.12.2024" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HAVE A +MERRY-CHRISMAS;AND+A+HAPPY+NEW;YEAR+GOOD+BYE+😊;2024" alt="Typing SVG" /></a>
+
 
 
 <p align="center">
@@ -74,13 +74,28 @@
 
 `DEPLOY IT AS A BACKGROUND WORKER NOT WEB`
 
+[`Tutorial`](https://youtu.be/bj59ynAaa3Y?si=cJpQPr1XaP7q-tDF).***
+
 --------
-5.  ***Deploy/run on panels  [`Panel deployment`] | [`Tutorial`](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm).***
+
+
+**(5.) Deploy on Scalingo**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://scalingo.com/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://youtu.be/XAEvjrFIoiw?si=zdVjdtav3ZtsjTRz"><img src="https://img.shields.io/badge/WATCH%20SCALINGO%20TUTORIAL-red" alt="Render Tutorial" width="150"></a>
+</details>
+
+
+5.  ***Deploy/run on panels  [`Panel deployment`] | [`Tutorial`](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNXRb_mm).
 
 **(1) BOT HOSTING PANEL(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://www.mediafire.com/file/p8mtp7krfvkm512/BELLAH_XMD.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
@@ -89,7 +104,7 @@
 **(2) DAKI HOSTING PANEL(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://www.mediafire.com/file/p8mtp7krfvkm512/BELLAH_XMD.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://daki.cc/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
@@ -98,9 +113,21 @@
 **(3) SOLAR HOSTING PANEL(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://www.mediafire.com/file/p8mtp7krfvkm512/BELLAH_XMD.zip/file"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
  <a href="https://solarhosting.cc/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+**(4) KATABUMB HOSTING PANEL(DISCORD) DEPLOYMENT**
+<details>
+<summary>TAP TO OPEN</summary>
+<a href="https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+ <a href="https://katabump.com/en/"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
 
 

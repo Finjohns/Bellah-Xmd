@@ -8,7 +8,7 @@ const chalk = require('chalk')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'Bellah~2z40RA7T#VRneuCjwFxSYHupVJSJHZDNmNDE_THLCNxjVd9jGWuw' 
 //owmner v card
 global.ytname = "YT: GIDDYTENNOR" //ur yt chanel name
 global.socialm = "IG: @GIDDYTENNOR" //ur github or insta name
@@ -41,6 +41,9 @@ global.autoswview = process.env.AUTOSW_VIEW || 'true' //auto status/story view
 global.adminevent = true //show promote/demote message
 global.groupevent = true //show update messages in group chat
 //msg
+global.autorecord = process.env.AUTO_RECORD || 'false'
+global.autorecordtype = process.env.AUTO_RECORDTYPE || 'false'
+
 global.mess = {
 	limit: 'Your limit is up <\>',
 	nsfw: 'Nsfw is disabled in this group, Please tell the admin to enable',
